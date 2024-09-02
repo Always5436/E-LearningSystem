@@ -14,14 +14,7 @@
  password: admin 
  ```
  note: Super admin can add new admins
- 
- # Demo <br>
 
-
-
-
-
-https://user-images.githubusercontent.com/45914161/147848507-1b93a183-fe78-4862-b332-1742891f486e.mp4
 
 
 
