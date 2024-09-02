@@ -19,7 +19,7 @@ Primary Key (Adminid)
 ) ENGINE = InnoDB DEFAULT CHARSET = latin1;
 
 Insert Into Admin (fname, lname, Email_ID, username, password, Gender)
-Values('Suwaid', 'Aslam', 'Suwaid@admin.com', 'admin', 'admin', 'Male');
+Values('Mohit', 'Yadav', 'Mohit@admin.com', 'admin', 'admin', 'Male');
 
 
 create Table Student(
