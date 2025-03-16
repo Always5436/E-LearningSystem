@@ -2,11 +2,13 @@
 
 **How to run the Project:**
 1. Clone this repo using 
-   - ```git clone https://github.com/Always5436/E-LearningSystem```
-2. Install Netbeans 8.2
-3. Use WAMP server.
-4. First create the MySql database on WAMP server using the sql file in the repo
-5. And then build and run the LoadingScreen.java or Main.java file from the IDE. 
+    ```
+   git clone https://github.com/Always5436/E-LearningSystem
+   ```
+3. Install Netbeans 8.2
+4. Use WAMP server.
+5. First create the MySql database on WAMP server using the sql file in the repo
+6. And then build and run the LoadingScreen.java or Main.java file from the IDE. 
 
 **Login Information** <br>
  ```
